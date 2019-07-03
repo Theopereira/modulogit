@@ -1,0 +1,1 @@
+Projeto com dificuldades de acionar a camera
